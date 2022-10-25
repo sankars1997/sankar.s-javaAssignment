@@ -1,3 +1,4 @@
+//5)To display all the perfect squares between two input numbers interval.
 import java.util.Scanner;
 
 public class perfectSquareno {
